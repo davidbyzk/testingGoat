@@ -38,3 +38,146 @@ Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrp
 Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
 1522857643999	Marionette	WARN	TLS certificate errors will be ignored for this session
 [Parent 301832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522869847755	geckodriver	INFO	geckodriver 0.19.1
+1522869847762	geckodriver	INFO	Listening on 127.0.0.1:11012
+1522869850912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\david\\AppData\\Local\\Temp\\rust_mozprofile.lU1r2bnfWYAa"
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522869854541	Marionette	INFO	Listening on port 11021
+1522869854699	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 385508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522869856294	geckodriver	INFO	geckodriver 0.19.1
+1522869856301	geckodriver	INFO	Listening on 127.0.0.1:11053
+1522869859432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\david\\AppData\\Local\\Temp\\rust_mozprofile.IlEQl8OcUWKr"
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522869862547	Marionette	INFO	Listening on port 11061
+1522869862737	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522869863098	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:294
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Firefox%20Developer%20Edition/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Firefox%20Developer%20Edition/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4430
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2282
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:288
+execute()@server.js:262
+onPacket/<()@server.js:237
+onPacket()@server.js:236
+_onJSONObjectReady/<()@transport.js:500
+1522870672094	geckodriver	INFO	geckodriver 0.19.1
+1522870672101	geckodriver	INFO	Listening on 127.0.0.1:11461
+1522870675229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\david\\AppData\\Local\\Temp\\rust_mozprofile.yEcSUr0ybUwF"
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522870678670	Marionette	INFO	Listening on port 11471
+1522870679008	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 390392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 387296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522870818733	geckodriver	INFO	geckodriver 0.19.1
+1522870818740	geckodriver	INFO	Listening on 127.0.0.1:11556
+1522870821883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\david\\AppData\\Local\\Temp\\rust_mozprofile.FSwpxcogbk6S"
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522870825186	Marionette	INFO	Listening on port 11566
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522870825642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522872703917	geckodriver	INFO	geckodriver 0.19.1
+1522872703924	geckodriver	INFO	Listening on 127.0.0.1:12265
+1522872707101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\david\\AppData\\Local\\Temp\\rust_mozprofile.GXcBHxbO2xjh"
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522872711100	Marionette	INFO	Listening on port 12273
+1522872711371	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522872711809	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:294
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Firefox%20Developer%20Edition/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Firefox%20Developer%20Edition/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4430
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2282
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:288
+execute()@server.js:262
+onPacket/<()@server.js:237
+onPacket()@server.js:236
+_onJSONObjectReady/<()@transport.js:500
+[Parent 404464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522873886364	geckodriver	INFO	geckodriver 0.19.1
+1522873886371	geckodriver	INFO	Listening on 127.0.0.1:12767
+1522873889522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\david\\AppData\\Local\\Temp\\rust_mozprofile.oVKzaywBQY0P"
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522873892960	Marionette	INFO	Listening on port 12778
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522873893286	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 407480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522889844589	geckodriver	INFO	geckodriver 0.19.1
+1522889844589	geckodriver	INFO	Listening on 127.0.0.1:2355
+1522889847652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\david\\AppData\\Local\\Temp\\rust_mozprofile.BWDWPRQ83YoF"
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522889850148	Marionette	INFO	Listening on port 2364
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522889850864	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522889953462	geckodriver	INFO	geckodriver 0.19.1
+1522889953469	geckodriver	INFO	Listening on 127.0.0.1:2469
+1522889956545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\david\\AppData\\Local\\Temp\\rust_mozprofile.ePXQEZPJDNA9"
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522889958080	Marionette	INFO	Listening on port 2480
+1522889958568	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1522890172640	geckodriver	INFO	geckodriver 0.19.1
+1522890172640	geckodriver	INFO	Listening on 127.0.0.1:2578
+1522890175739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\david\\AppData\\Local\\Temp\\rust_mozprofile.i16sBlIw1bpi"
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522890177244	Marionette	INFO	Listening on port 2587
+1522890177316	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522893552330	geckodriver	INFO	geckodriver 0.19.1
+1522893552345	geckodriver	INFO	Listening on 127.0.0.1:4523
+1522893555430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\david\\AppData\\Local\\Temp\\rust_mozprofile.2HRwrQZCoYpU"
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522893556952	Marionette	INFO	Listening on port 4531
+Unable to read VR Path Registry from C:\Users\david\AppData\Local\openvr\openvrpaths.vrpath
+1522893557028	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 32776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 34220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
